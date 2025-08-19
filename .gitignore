@@ -1,0 +1,11 @@
+.env
+ocrenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+Thumbs.db
+
+.vscode/
+.idea/

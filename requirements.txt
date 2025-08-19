@@ -1,0 +1,8 @@
+ opencv-python
+streamlit
+gtts
+genai
+os
+deep_translator
+dotenv
+google-geni
