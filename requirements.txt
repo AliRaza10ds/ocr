@@ -1,8 +1,5 @@
- opencv-python
+Pillow
 streamlit
-gtts
-genai
-os
-deep_translator
-dotenv
-google-geni
+google-generativeai
+python-dotenv
+deep-translator
